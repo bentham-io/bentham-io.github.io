@@ -1,0 +1,2540 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 164.04166 52.916668"
+   height="200"
+   width="620">
+  <defs
+     id="defs2">
+    <filter
+       id="filter21443"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21429"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21431"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21433"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21437"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21435"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21439"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21441"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21459"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21445"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21447"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21449"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21453"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21451"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21455"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21457"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21475"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21461"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21463"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21465"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21469"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21467"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21471"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21473"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21491"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21477"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21479"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21481"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21485"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21483"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21487"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21489"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21507"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21493"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21495"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21497"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21501"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21499"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21503"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21505"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21523"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21509"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21511"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21513"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21517"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21515"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21519"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21521"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21539"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21525"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21527"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21529"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21533"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21531"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21535"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21537"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21555"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21541"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21543"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21545"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21549"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21547"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21551"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21553"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21571"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21557"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21559"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21561"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21565"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21563"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21567"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21569"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21587"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21573"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21575"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21577"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21581"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21579"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21583"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21585"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21603"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21589"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21591"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21593"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21597"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21595"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21599"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21601"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21619"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21605"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21607"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21609"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21613"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21611"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21615"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21617"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21635"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21621"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21623"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21625"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21629"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21627"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21631"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21633"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21651"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21637"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21639"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21641"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21645"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21643"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21647"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21649"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21667"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21653"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21655"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21657"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21661"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21659"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21663"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21665"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21683"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21669"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21671"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21673"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21677"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21675"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21679"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21681"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21699"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21685"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21687"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21689"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21693"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21691"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21695"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21697"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21715"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21701"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21703"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21705"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21709"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21707"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21711"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21713"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21731"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21717"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21719"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21721"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21725"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21723"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21727"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21729"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21747"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21733"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21735"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21737"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21741"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21739"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21743"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21745"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21763"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21749"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21751"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21753"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21757"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21755"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21759"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21761"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21779"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21765"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21767"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21769"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21773"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21771"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21775"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21777"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21795"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21781"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21783"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21785"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21789"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21787"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21791"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21793"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21811"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21797"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21799"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21801"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21805"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21803"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21807"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21809"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21443-8"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21429-0"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21431-3"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21433-3"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21437-1"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21435-5"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21439-6"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21441-7"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21459-2"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21445-0"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21447-4"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21449-0"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21453-9"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21451-4"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21455-5"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21457-3"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21475-9"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21461-0"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21463-1"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21465-8"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21469-2"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21467-6"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21471-5"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21473-4"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21491-3"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21477-4"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21479-5"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21481-3"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21485-8"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21483-1"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21487-4"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21489-7"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21507-0"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21493-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21495-9"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21497-6"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21501-6"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21499-9"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21503-3"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21505-6"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21523-4"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21509-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21511-1"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21513-2"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21517-9"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21515-6"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21519-3"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21521-9"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21539-5"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21525-4"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21527-8"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21529-9"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21533-1"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21531-1"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21535-5"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21537-0"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21555-7"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21541-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21543-4"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21545-8"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21549-4"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21547-0"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21551-3"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21553-9"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21571-3"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21557-8"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21559-9"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21561-5"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21565-9"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21563-6"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21567-6"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21569-1"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21587-8"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21573-9"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21575-4"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21577-2"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21581-7"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21579-4"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21583-8"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21585-0"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21603-1"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21589-1"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21591-6"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21593-8"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21597-6"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21595-2"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21599-6"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21601-0"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21619-6"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21605-4"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21607-6"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21609-7"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21613-0"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21611-7"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21615-2"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21617-1"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21635-9"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21621-1"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21623-6"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21625-2"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21629-2"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21627-4"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21631-0"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21633-9"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21651-1"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21637-4"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21639-4"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21641-6"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21645-4"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21643-4"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21647-5"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21649-3"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21667-9"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21653-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21655-8"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21657-5"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21661-1"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21659-0"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21663-6"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21665-6"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21683-6"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21669-6"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21671-8"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21673-2"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21677-7"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21675-3"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21679-7"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21681-0"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21699-7"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21685-4"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21687-9"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21689-2"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21693-3"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21691-6"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21695-6"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21697-6"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21715-5"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21701-8"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21703-0"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21705-8"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21709-3"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21707-1"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21711-8"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21713-2"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21731-3"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21717-3"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21719-7"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21721-0"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21725-5"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21723-5"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21727-5"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21729-9"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21747-4"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21733-7"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21735-1"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21737-5"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21741-1"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21739-7"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21743-4"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21745-2"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21763-9"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21749-6"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21751-5"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21753-7"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21757-5"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21755-7"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21759-6"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21761-5"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21779-8"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21765-0"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21767-1"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21769-8"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21773-7"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21771-9"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21775-2"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21777-6"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21795-1"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21781-3"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21783-4"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21785-8"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21789-4"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21787-4"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21791-3"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21793-6"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21811-7"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21797-7"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21799-8"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21801-4"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21805-0"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21803-8"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21807-0"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21809-6"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21443-2"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21429-8"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21431-1"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21433-7"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21437-2"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21435-0"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21439-9"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21441-0"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21459-6"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21445-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21447-8"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21449-07"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21453-7"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21451-8"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21455-8"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21457-0"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21475-8"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21461-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21463-8"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21465-0"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21469-25"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21467-65"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21471-4"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21473-2"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21491-4"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21477-1"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21479-3"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21481-1"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21485-9"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21483-9"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21487-6"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21489-4"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21507-5"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21493-0"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21495-5"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21497-4"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21501-4"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21499-8"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21503-9"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21505-7"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21523-8"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21509-9"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21511-14"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21513-0"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21517-2"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21515-7"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21519-33"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21521-5"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21539-3"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21525-1"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21527-2"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21529-6"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21533-2"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21531-2"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21535-2"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21537-3"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21555-3"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21541-3"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21543-6"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21545-7"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21549-9"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21547-01"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21551-34"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21553-0"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21571-2"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21557-0"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21559-7"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21561-4"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21565-7"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21563-0"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21567-3"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21569-9"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21587-7"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21573-0"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21575-6"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21577-0"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21581-6"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21579-9"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21583-7"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21585-6"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21603-3"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21589-5"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21591-4"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21593-9"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21597-9"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21595-5"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21599-0"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21601-9"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21619-5"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21605-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21607-65"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21609-8"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21613-05"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21611-1"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21615-1"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21617-6"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21635-4"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21621-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21623-8"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21625-6"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21629-24"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21627-9"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21631-1"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21633-1"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21651-12"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21637-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21639-0"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21641-0"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21645-9"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21643-1"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21647-8"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21649-7"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21667-7"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21653-0"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21655-3"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21657-0"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21661-5"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21659-3"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21663-9"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21665-65"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21683-60"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21669-9"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21671-1"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21673-4"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21677-5"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21675-0"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21679-2"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21681-4"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21699-6"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21685-2"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21687-5"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21689-4"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21693-0"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21691-5"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21695-2"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21697-69"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21715-4"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21701-4"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21703-00"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21705-0"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21709-7"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21707-5"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21711-1"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21713-28"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21731-6"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21717-9"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21719-1"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21721-4"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21725-3"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21723-7"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21727-9"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21729-0"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21747-1"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21733-1"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21735-0"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21737-1"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21741-2"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21739-6"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21743-7"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21745-7"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21763-4"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21749-4"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21751-0"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21753-1"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21757-4"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21755-2"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21759-65"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21761-7"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21779-1"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21765-1"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21767-4"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21769-3"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21773-6"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21771-96"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21775-3"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21777-1"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21795-7"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21781-37"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21783-8"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21785-9"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21789-9"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21787-3"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21791-9"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21793-3"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter21811-1"
+       style="color-interpolation-filters:sRGB">
+      <feMorphology
+         id="feMorphology21797-5"
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3" />
+      <feComposite
+         id="feComposite21799-9"
+         in2="result91"
+         in="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur21801-9"
+         stdDeviation="1.2"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting21805-1"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight21803-0"
+           azimuth="225"
+           elevation="66" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend21807-6"
+         in2="SourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite21809-7"
+         in2="SourceAlpha"
+         operator="in" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-27.545587,-12.808582)"
+     id="layer1">
+    <path
+       transform="matrix(0.27568123,0,0,0.27568123,-7.0799411,-104.65448)"
+       id="path3015"
+       d="m 140.60497,522.0573 v -78.91305 h 78.91304 78.91306 l -9.33164,9.34187 -9.33163,9.34187 -60.11124,0.12831 -60.11123,0.12831 -0.12831,60.11124 -0.12831,60.11124 -9.34187,9.33163 -9.34187,9.33163 z"
+       style="fill:#5f8dd3;fill-opacity:1;stroke:none;stroke-width:0.50587165;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter21491)" />
+    <path
+       transform="matrix(0.28968352,0,0,0.28968352,-10.094231,-111.96448)"
+       id="path3017"
+       d="m 180.50599,522.0573 v -39.01202 h 39.01203 39.01202 l -9.32805,9.33828 -9.32805,9.33828 -20.21379,0.1319 -20.2138,0.1319 -0.1319,20.21379 -0.1319,20.2138 -9.33828,9.32805 -9.33828,9.32804 z"
+       style="fill:#5f8dd3;fill-opacity:1;stroke:none;stroke-width:0.50587165;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter21475)" />
+    <path
+       transform="matrix(0.32199072,0,0,0.32199072,-17.54765,-129.19826)"
+       id="path3019"
+       d="m 220.40702,523.19884 c 10.13655,-10.1394 18.48808,-18.43528 18.55896,-18.43528 0.0709,0 0.12886,8.29588 0.12886,18.43528 v 18.43529 h -18.55896 -18.55896 z"
+       style="fill:#5f8dd3;fill-opacity:1;stroke:none;stroke-width:0.50587165;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter21459)" />
+    <path
+       transform="matrix(0.28102972,0,0,0.28102972,-8.5714429,-107.66249)"
+       id="path3021"
+       d="m 171.16208,572.44378 9.08085,-9.09137 h 39.679 c 30.18802,0 39.82398,-0.14498 40.2851,-0.6061 0.46112,-0.46112 0.60609,-10.09705 0.60609,-40.28495 V 482.7825 l 9.34391,-9.33367 9.34391,-9.33367 v 58.71 58.70999 h -58.70985 -58.70986 z"
+       style="fill:#5f8dd3;fill-opacity:1;stroke:none;stroke-width:0.50587165;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter21443)" />
+    <path
+       d="m 79.8175,36.523716 q 1.4732,0 2.4638,0.7366 0.9906,0.7112 1.4732,1.9812 0.4826,1.2446 0.4826,2.8194 0,2.2098 -0.9652,3.6068 -0.9398,1.3716 -2.3876,1.9812 -1.4478,0.6096 -2.9972,0.6096 -1.7018,0 -3.9878,-0.7366 V 30.478517 l 2.1844,-0.254 v 7.289799 q 1.8034,-0.9906 3.7338,-0.9906 z m -2.0066,9.9314 q 1.8034,0 2.9464,-1.016 1.143,-1.0414 1.143,-3.429 0,-1.7272 -0.6604,-2.667 -0.6604,-0.9398 -2.032,-0.9398 -1.4986,0 -3.1242,0.7366 v 7.112 q 0.9652,0.2032 1.7272,0.2032 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#162d50;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1398" />
+    <path
+       d="m 95.964755,42.772116 h -7.746999 q 0.0254,1.905 0.9144,2.7686 0.9144,0.8636 2.3368,0.8636 1.016,0 1.752599,-0.254 0.762,-0.254 1.6764,-0.7874 l 0.8382,1.5494 q -2.0828,1.3462 -4.368799,1.3462 -2.4384,0 -3.9116,-1.3462 -1.4478,-1.3716 -1.4478,-4.318 0,-1.6764 0.6096,-3.048 0.6096,-1.3716 1.8034,-2.1844 1.2192,-0.8382 2.9718,-0.8382 1.473199,0 2.514599,0.6096 1.0414,0.5842 1.5748,1.6256 0.5334,1.0414 0.5334,2.3876 z m -4.571999,-4.5466 q -1.3208,0 -2.0828,0.7874 -0.7366,0.7874 -0.9652,2.159 h 5.537199 v -0.1016 q 0,-1.4224 -0.6604,-2.1336 -0.634999,-0.7112 -1.828799,-0.7112 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#162d50;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1400" />
+    <path
+       d="m 104.95239,36.523716 q 3.4036,0 3.4036,3.5306 v 7.8994 h -2.1844 v -7.0866 q 0,-0.9398 -0.2032,-1.4478 -0.1778,-0.5334 -0.635,-0.762 -0.4318,-0.2286 -1.1938,-0.2286 -0.762,0 -1.6256,0.2286 -0.8636,0.2032 -1.6256,0.5588 v 8.7376 h -2.184403 v -11.1252 l 2.184403,-0.254 v 1.0668 q 2.1336,-1.1176 4.064,-1.1176 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#162d50;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1402" />
+    <path
+       d="m 118.43978,47.547316 q -1.3208,0.7112 -2.794,0.7112 -1.5748,0 -2.4892,-0.889 -0.9144,-0.9144 -0.9144,-2.7178 v -6.096 h -2.2352 v -1.7272 h 2.2352 v -2.5146 l 2.1844,-0.3556 v 2.8702 h 3.7592 l -0.2286,1.7272 h -3.5306 v 5.7404 q 0,2.1336 1.5748,2.1336 0.4572,0 0.889,-0.1016 0.4318,-0.1016 0.9398,-0.3302 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#162d50;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1404" />
+    <path
+       d="m 126.77932,36.523716 q 1.5748,0 2.4892,0.8128 0.9144,0.8128 0.9144,2.6416 v 7.9756 h -2.1844 v -7.0866 q 0,-0.9398 -0.2032,-1.4478 -0.1778,-0.5334 -0.635,-0.762 -0.4318,-0.2286 -1.1938,-0.2286 -0.762,0 -1.6256,0.2032 -0.8382,0.2032 -1.5748,0.5588 v 8.763 h -2.1844 V 30.478517 l 2.1844,-0.254 v 7.391399 q 2.0828,-1.0922 4.0132,-1.0922 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#162d50;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1406" />
+    <path
+       d="m 138.17559,36.523716 q 1.9558,0 2.921,0.889 0.9906,0.889 0.9906,2.794 v 7.747 h -1.9812 l -0.127,-0.9652 q -1.7526,1.27 -4.0386,1.27 -0.9652,0 -1.7272,-0.3556 -0.762,-0.381 -1.1938,-1.0414 -0.4064,-0.6858 -0.4064,-1.5494 0,-1.397 0.9906,-2.3114 0.9906,-0.9398 2.6416,-1.3716 1.651,-0.4318 3.6576,-0.4826 v -0.5588 q 0,-1.143 -0.4572,-1.651 -0.4572,-0.5334 -1.5494,-0.5334 -1.8542,0 -3.8608,1.3208 l -0.9652,-1.524 q 2.4384,-1.6764 5.1054,-1.6764 z m -3.2258,8.5598 q 0,0.6604 0.381,0.9906 0.4064,0.3302 1.1938,0.3302 1.7272,0 3.3782,-1.016 v -2.6416 q -2.2098,0.1016 -3.5814,0.6858 -1.3716,0.5842 -1.3716,1.651 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#162d50;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1408" />
+    <path
+       d="m 158.51463,36.523716 q 1.4478,0 2.3114,0.8128 0.8636,0.8128 0.8636,2.6416 v 7.9756 h -2.1844 v -7.0866 q 0,-0.9398 -0.1778,-1.4478 -0.1778,-0.5334 -0.5588,-0.762 -0.381,-0.2286 -1.0668,-0.2286 -0.7366,0 -1.5494,0.2286 -0.8128,0.2032 -1.524,0.5588 0.0508,0.508 0.0508,0.762 v 7.9756 h -2.1844 v -7.0866 q 0,-0.9398 -0.1778,-1.4478 -0.1524,-0.5334 -0.5334,-0.762 -0.381,-0.2286 -1.0668,-0.2286 -0.7112,0 -1.4986,0.2286 -0.7874,0.2032 -1.4986,0.5334 v 8.763 h -2.1844 v -11.1252 l 2.1844,-0.254 v 1.0668 q 1.9558,-1.1176 3.81,-1.1176 1.8796,0 2.6416,1.2446 0.9144,-0.5334 2.0574,-0.889 1.1684,-0.3556 2.286,-0.3556 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#162d50;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1410" />
+    <path
+       d="m 165.74054,48.207716 q -0.4318,0 -0.8128,-0.2286 -0.381,-0.2032 -0.6096,-0.5588 -0.2032,-0.381 -0.2032,-0.8128 0,-0.4318 0.2032,-0.7874 0.2286,-0.381 0.6096,-0.5842 0.381,-0.2286 0.8128,-0.2286 0.4318,0 0.8128,0.2286 0.381,0.2032 0.5842,0.5842 0.2286,0.3556 0.2286,0.7874 0,0.4318 -0.2286,0.8128 -0.2032,0.3556 -0.5842,0.5588 -0.381,0.2286 -0.8128,0.2286 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#162d50;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1412" />
+    <path
+       d="m 171.31584,34.821916 q -0.5842,0 -1.0922,-0.2794 -0.508,-0.3048 -0.8128,-0.7874 -0.3048,-0.4826 -0.3048,-1.066799 0,-0.5842 0.3048,-1.0668 0.3048,-0.508 0.8128,-0.7874 0.508,-0.3048 1.0922,-0.3048 0.6096,0 1.1176,0.3048 0.5334,0.2794 0.8382,0.7874 0.3048,0.4826 0.3048,1.0668 0,0.584199 -0.3048,1.066799 -0.3048,0.4826 -0.8382,0.7874 -0.508,0.2794 -1.1176,0.2794 z m -1.6764,13.1318 v -11.3538 l 3.4544,-0.3302 v 11.684 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2c5aa0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1414" />
+    <path
+       d="m 181.31987,48.309316 q -1.905,0 -3.2512,-0.8128 -1.3208,-0.8128 -1.9812,-2.1844 -0.6604,-1.397 -0.6604,-3.0988 0,-2.1844 0.8382,-3.5306 0.8636,-1.3462 2.2606,-1.9304 1.397,-0.6096 3.1242,-0.6096 1.9304,0 3.2512,0.7874 1.3462,0.762 2.0066,2.1336 0.6604,1.3716 0.6604,3.175 0,2.1082 -0.8382,3.4798 -0.8128,1.3462 -2.2352,1.9812 -1.397,0.6096 -3.175,0.6096 z m 0.1778,-2.5654 q 1.3716,0 1.9304,-0.9398 0.5588,-0.9652 0.5588,-2.5908 0,-1.7272 -0.6096,-2.6162 -0.5842,-0.889 -1.8288,-0.889 -1.3462,0 -1.9558,0.889 -0.6096,0.8636 -0.6096,2.6162 0,1.651 0.6096,2.5908 0.635,0.9398 1.905,0.9398 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2c5aa0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path1416" />
+  </g>
+</svg>
