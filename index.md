@@ -1,4 +1,4 @@
-![Logo](./img/bentham.io.svg)
+![Logo](img/bentham.io.svg)
 
 # Welcome
 
